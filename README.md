@@ -7,7 +7,7 @@
 <html>
     <body>
         <link href="About-Me/blob/master/mypref.css" type="text/css" rel="css/style.css" />
-        <p> I am a second-year college student interested in computer science. In my free time, I like reading literature and history    books.</p>
+        <p> I am a fourth-year undergraduate student interested in computer science. In my free time, I like reading literature and history books.</p>
         <hr /> 
         <p> Here are some of the things that I am interested in and working on learning well: </p>
         <ol>
